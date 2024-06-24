@@ -1,1 +1,6 @@
-print("Hello world")
+print("Please enter your name")
+
+read the input from the user 
+store it in a variable called user_name
+
+print("Hello (user_name)")
