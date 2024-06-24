@@ -1,0 +1,18 @@
+print("Please enter your age")
+
+read the input from the user
+store it in a age variable 
+
+print("Please enter your gender")
+
+read the input from the user
+store it in a gender variable 
+
+print("Please enter your birth date")
+
+read the input from the user
+store it in a birth_date variable 
+
+print("your age is (age variable)")
+print("your gender is (gender variable)")
+print("your birth date is (birth_date variable)")
