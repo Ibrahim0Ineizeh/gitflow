@@ -1,6 +1,9 @@
 print("Please enter your name")
 
 read the input from the user 
-store it in a variable called user_name
 
-print("Hello (user_name)")
+if the input is empty give an erro statement and ask the user to enter the name again
+
+else do the following:
+    store it in a variable called user_name
+    print("Hello (user_name)")
