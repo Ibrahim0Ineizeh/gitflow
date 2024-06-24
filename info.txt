@@ -1,8 +1,3 @@
-print("Please enter your age")
-
-read the input from the user
-store it in a age variable 
-
 print("Please enter your gender")
 
 read the input from the user
@@ -12,6 +7,10 @@ print("Please enter your birth date")
 
 read the input from the user
 store it in a birth_date variable 
+
+get the present date 
+subtract the birth date from the present date
+store the result in the age variable
 
 print("your age is (age variable)")
 print("your gender is (gender variable)")
